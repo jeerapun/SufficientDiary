@@ -1,4 +1,4 @@
 SufficientDiary
 ===============
 
-It my simple Sufficient Diary Log
+This is My First Respository
