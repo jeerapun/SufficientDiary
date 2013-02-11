@@ -10,6 +10,7 @@
 
     <properties>
         <struts2.version>2.3.8</struts2.version>
+        <log4j.version>1.2.16</log4j.version>
     </properties>
 
     <dependencies>
@@ -59,6 +60,13 @@
             <version>2.0</version>
             <scope>provided</scope>
         </dependency>
+        <!-- log4j -->
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>${log4j.version}</version>
+        </dependency>
+            
 
     </dependencies>
 
