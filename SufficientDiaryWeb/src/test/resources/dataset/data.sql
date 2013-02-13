@@ -1,0 +1,2 @@
+insert into trx_user (SUFF_ID, USERNAME, CREDENTIAL, EXPIRY, STATUS, LAST_LOGIN, CREATED, CREATED_BY, LAST_UPD, UPD_BY)
+values ('13020001', 'jeerapun.m', 'ao1234', '2013-03-13 00:00:00', 'ACTIVE', '2013-02-13 00:00:00', '2013-02-13 00:00:00', 'admin', '2013-02-13 00:00:00', 'admin');
