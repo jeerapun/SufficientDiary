@@ -2,8 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.suff.authen;
+package com.suff.endpoint.authen;
 
+import com.suff.endpoint.authen.Login;
 import com.suff.domain.LoginDTO;
 import com.suff.example.ConfigTest;
 import org.junit.After;
